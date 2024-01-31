@@ -3,13 +3,15 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.1 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2024
+> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌆 Daytime                237 commits         █████████░░░░░░░░░░░░░░░░   36.69 % 
-🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
-🌙 Night                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌞 Morning                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌆 Daytime                240 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌃 Evening                262 commits         ██████████░░░░░░░░░░░░░░░   40.25 % 
+🌙 Night                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 
@@ -66,5 +68,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2024 06:44:17 UTC
+ Last Updated on 31/01/2024 10:40:42 UTC
 <!--END_SECTION:waka-->
