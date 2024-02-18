@@ -3,7 +3,7 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,16 +35,19 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 3 hrs 10 mins       █████████████████████████   100.00 % 
+Markdown                 3 hrs 22 mins       █████████████████████████   99.41 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Elannnnn                 3 hrs 10 mins       █████████████████████████   100.00 % 
+Elannnnn                 3 hrs 22 mins       █████████████████████████   99.41 % 
+loving_app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +63,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2024 01:01:11 UTC
+ Last Updated on 18/02/2024 01:05:50 UTC
 <!--END_SECTION:waka-->
