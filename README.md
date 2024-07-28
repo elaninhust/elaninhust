@@ -3,15 +3,13 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.2 kB Used in GitHub's Storage 
- > 
-> 🏆 45 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,5 +61,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2024 01:11:28 UTC
+ Last Updated on 28/07/2024 01:17:54 UTC
 <!--END_SECTION:waka-->
