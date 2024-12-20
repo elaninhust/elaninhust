@@ -3,7 +3,7 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -35,11 +35,10 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       █████████████████████░░░░   83.12 % 
-JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+TypeScript               3 hrs 53 mins       █████████████████████░░░░   83.01 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
 VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
@@ -65,5 +64,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2024 01:26:45 UTC
+ Last Updated on 20/12/2024 01:22:40 UTC
 <!--END_SECTION:waka-->
