@@ -3,15 +3,13 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.3 kB Used in GitHub's Storage 
- > 
-> 🏆 46 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,20 +33,20 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       █████████████████████░░░░   83.01 % 
-JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+TypeScript               3 hrs 45 mins       ███████████████████░░░░░░   75.49 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qihooloan-h5             4 hrs 30 mins       ████████████████████████░   96.10 % 
-Elannnnn                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+qihooloan-h5             4 hrs 22 mins       ██████████████████████░░░   87.80 % 
+Elannnnn                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,5 +62,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2024 01:22:40 UTC
+ Last Updated on 21/12/2024 01:21:04 UTC
 <!--END_SECTION:waka-->
