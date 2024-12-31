@@ -35,16 +35,18 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               57 mins             ████████████████████████░   94.12 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+qihooloan-h5             1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +62,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 01:24:27 UTC
+ Last Updated on 31/12/2024 01:21:57 UTC
 <!--END_SECTION:waka-->
