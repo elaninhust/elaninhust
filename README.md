@@ -3,15 +3,13 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,18 +33,18 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               10 hrs 20 mins      ████████████████████░░░░░   80.84 % 
-JavaScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Less                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript               7 hrs 53 mins       ███████████████████░░░░░░   77.40 % 
+JavaScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Less                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qihooloan-h5             12 hrs 47 mins      █████████████████████████   100.00 % 
+qihooloan-h5             10 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +60,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 01:19:49 UTC
+ Last Updated on 18/01/2025 01:17:52 UTC
 <!--END_SECTION:waka-->
