@@ -3,15 +3,13 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,16 +33,13 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   99.82 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Elannnnn                 13 mins             █████████████████████████   99.82 % 
-qihooloan-h5             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Elannnnn                 13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      13 mins             █████████████████████████   100.00 % 
@@ -63,5 +58,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 01:20:45 UTC
+ Last Updated on 25/01/2025 01:16:48 UTC
 <!--END_SECTION:waka-->
