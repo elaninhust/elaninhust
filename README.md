@@ -11,8 +11,6 @@
 
 > 📦 103.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -35,16 +33,16 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Elannnnn                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +58,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2025 01:19:15 UTC
+ Last Updated on 31/01/2025 01:20:33 UTC
 <!--END_SECTION:waka-->
