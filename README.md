@@ -3,6 +3,8 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -66,5 +68,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 01:28:08 UTC
+ Last Updated on 17/02/2025 01:24:47 UTC
 <!--END_SECTION:waka-->
