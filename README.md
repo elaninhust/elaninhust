@@ -3,13 +3,15 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,19 +35,19 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               4 hrs 25 mins       ██████████████████████░░░   89.91 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               4 hrs 47 mins       ███████████████████████░░   90.59 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qihooloan-h5             4 hrs 49 mins       █████████████████████████   98.01 % 
-Elannnnn                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+qihooloan-h5             5 hrs 11 mins       █████████████████████████   98.15 % 
+Elannnnn                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +63,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2025 01:37:27 UTC
+ Last Updated on 12/04/2025 01:27:32 UTC
 <!--END_SECTION:waka-->
