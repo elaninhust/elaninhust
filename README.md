@@ -3,17 +3,19 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -63,5 +65,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:41:43 UTC
+ Last Updated on 05/11/2025 01:42:30 UTC
 <!--END_SECTION:waka-->
