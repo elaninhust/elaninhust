@@ -3,10 +3,6 @@
 ![Elan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaninhust&rank_icon=github)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%2054%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,5 +64,5 @@ C++                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:39:18 UTC
+ Last Updated on 07/08/2026 02:42:56 UTC
 <!--END_SECTION:waka-->
